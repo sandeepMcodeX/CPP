@@ -1,5 +1,3 @@
-Sure! Here's a **short and simple version** of the notes:
-
 ---
 
 ### 📘 **Flowcharts**
