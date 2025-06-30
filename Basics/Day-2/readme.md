@@ -32,5 +32,3 @@ End
 ```
 
 ---
-
-Let me know if you need a graphic or LinkedIn post too!
